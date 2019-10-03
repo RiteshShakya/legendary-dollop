@@ -6,7 +6,7 @@ class arrayIndex
 { 
 	public static void main (String[] args) 
 	{		 
-	// declares an Array of integers. 
+	// declares an Array  
 	int[] arr; 
 		
 	// allocating memory for 5 integers. 
